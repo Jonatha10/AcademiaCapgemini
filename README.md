@@ -3,7 +3,7 @@
 
 # Desafio programação 2 capgemini
 
-Repositorio com o objetivo de armazenar os arquivos do desafio proposto pela  capgemini com o objetivo de ingressar na academia capgemini
+Repositorio com o objetivo de armazenar os arquivos do desafio proposto pela  capgemini com o objetivo de ingressar na academia capgemini.
 
 
 ## Requisitos
@@ -15,7 +15,7 @@ Repositorio com o objetivo de armazenar os arquivos do desafio proposto pela  ca
 
 ## Clonar repositorio 
 
-Para fazer a clonagem do repositorio execute o seguinte comando no seu terminal
+Para fazer a clonagem do repositorio execute o seguinte comando no seu terminal.
 
 ```bash
   git clone https://github.com/Jonatha10/AcademiaCapgemini.git
@@ -30,6 +30,6 @@ Para fazer a clonagem do repositorio execute o seguinte comando no seu terminal
 ## Como executar os codigos
 
 - Após ter feito a clonagem do repositorio abra os arquivos na IDE instalada na sua maquina.
-- Clique com o botão direito no arquivo que deseja rodar e procure pela opçao run
+- Clique com o botão direito no arquivo que deseja rodar e procure pela opçao run, que no caso significa rodar, ou executar.
 
 
